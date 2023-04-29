@@ -1,1 +1,1 @@
-# Big Data Infrastructure Projekt von Maria Mirnic, Kevin Xhunga und Safwan Zullash
+# Big Data Infrastructure Projekt von Maria Mirnic (wi21b105), Kevin Xhunga (wi21b025) und Safwan Zullash (wi21b030)
